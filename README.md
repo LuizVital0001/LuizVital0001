@@ -16,7 +16,7 @@
 ##   Connect with me: 
 
 <p align="left">
-<a href="https://www.linkedin.com/in/oarthurferreira/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/luiz-henrique-vital-b212a2290/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
 </p>
 
 ##  Linguagens: 
@@ -29,7 +29,7 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)
 
 ##  Clound:
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=azure,docker)](https://skillicons.dev)<br><br>
 
 ##  Ferramentas:
 [![My Skills](https://skillicons.dev/icons?i=git,github,postman,vercel,vscode,eclipse,idea,jest)](https://skillicons.dev)<br><br>
