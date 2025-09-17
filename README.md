@@ -32,7 +32,7 @@
 [![My Skills](https://skillicons.dev/icons?i=azure,docker)](https://skillicons.dev)<br><br>
 
 ##  Ferramentas:
-[![My Skills](https://skillicons.dev/icons?i=git,github,postman,vercel,vscode)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)<br><br>
 
 ##  Adds:
 [![My Skills](https://skillicons.dev/icons?i=figma,discord)](https://skillicons.dev)<br><br>
