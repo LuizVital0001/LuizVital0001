@@ -28,7 +28,7 @@
 ##  Bancos de Dados: 
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
-##  Clound:
+##  Cloud:
 [![My Skills](https://skillicons.dev/icons?i=azure,docker)](https://skillicons.dev)<br><br>
 
 ##  Ferramentas:
