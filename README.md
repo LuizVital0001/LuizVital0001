@@ -20,22 +20,22 @@
 </p>
 
 ##  Linguagens: 
-[![My Skills](https://skillicons.dev/icons?i=html,css,python,javascript,java,nodejs,cpp,pho)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,javascript,java,nodejs)](https://skillicons.dev)
 
 ##  Frameworks: 
-[![My Skills](https://skillicons.dev/icons?i=react,angular,dotnet,laravel,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,dotnet)](https://skillicons.dev)
 
 ##  Bancos de Dados: 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
 ##  Clound:
 [![My Skills](https://skillicons.dev/icons?i=azure,docker)](https://skillicons.dev)<br><br>
 
 ##  Ferramentas:
-[![My Skills](https://skillicons.dev/icons?i=git,github,postman,vercel,vscode,eclipse,idea,jest)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman,vercel,vscode)](https://skillicons.dev)<br><br>
 
 ##  Adds:
-[![My Skills](https://skillicons.dev/icons?i=figma,notion,discord)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=figma,discord)](https://skillicons.dev)<br><br>
 
 
 
